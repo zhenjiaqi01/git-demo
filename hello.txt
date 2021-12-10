@@ -1,5 +1,7 @@
 nihao 
 this is 2nd version
 这是hotfix改的
+<<<<<<< HEAD
 
 我是master所修改的文件
+>>>>>>> hotfix
